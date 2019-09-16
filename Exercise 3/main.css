@@ -1,0 +1,47 @@
+html {
+    /*
+    already done with the normalize.css file
+    */
+    font-family: sans-serif;
+}
+h1::first-letter {
+    font-size: 200%
+}
+h1 {
+    font-size: 18pt;
+}
+h2 {
+    font-size: 15pt;
+}
+h3 {
+    font-size: 13pt;
+}
+img {
+    float: left;
+}
+
+h2.head{
+    font-size: 40px;
+    text-indent: 20px;
+    color: orange;
+    font-style: italic;
+    text-shadow: 2px 2px #000000;
+}
+h3.head {
+    font-size: 15pt;
+    text-indent: 5.5em;
+}
+a{
+    color: orange;
+    font-weight: bold;
+}
+a:hover{
+    color: green;
+}
+li {
+    margin: 4px;
+}
+footer {
+    font-size: 10pt;
+    text-align: center;
+}
