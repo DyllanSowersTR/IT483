@@ -1,0 +1,22 @@
+h1 {
+    color: blue;
+    text-align: center;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
+h2 {
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-family: cursive;
+}
+ol {
+    list-style-position: inside;
+    text-align: center;
+}
+li.center{
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
