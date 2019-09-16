@@ -35,7 +35,7 @@ a{
     color: orange;
     font-weight: bold;
 }
-a:hover{
+a:hover, a:focus{
     color: green;
 }
 li {
