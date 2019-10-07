@@ -1,0 +1,29 @@
+/* Input boxes */
+label {
+    float: left;
+    width: 5em;;
+    text-align: right;
+}
+input {
+    margin-left: 1em;
+    margin-bottom: 1%;
+    width: 80%;
+}
+#sidebar {
+    height: 0;
+}
+#subscribe {
+    width: 20%;
+    margin-left: 16%;
+    margin-top: 2%;
+    background-color: orange;
+    border: solid;
+}
+main h1::first-letter {
+    font-size: 100%;
+}
+main h1 {
+    font-weight: bold;
+    margin-top: 5%;
+    font-size: 160%;
+}

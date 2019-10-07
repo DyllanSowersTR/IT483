@@ -1,0 +1,44 @@
+/* 
+Styling for the products page 
+Note - The width is off due to the changes needed to make everything fluid in another part of the assignment.
+*/
+caption {
+    font-size: 160%;
+    font-weight: bold;
+    padding: 2%;
+}
+
+table {
+    width: 60%;
+}
+main {
+    margin-right: 0;
+}
+th {
+    text-align: left;
+    vertical-align: top;
+}
+thead th {
+    color: gray;
+    padding-bottom: 2%;
+}
+.col3 {
+    background: #F5DEB3;
+    width: 15%; 
+}
+.price {
+    text-align: right;
+}
+thead {
+    background: white;
+}
+td {
+    padding: 1%;
+}
+table a:link {
+    color: black;
+    font-weight: 500;
+}
+#sidebar {
+    height: 150px;
+}

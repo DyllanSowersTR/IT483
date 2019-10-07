@@ -96,7 +96,7 @@ header h3 {
 /* Sidebar */
 #sidebar {
     float: left;
-    width: 17%;
+    width: 15%;
     padding-bottom: 30%;
     margin-left: 3%;
     font-size: 100%;
@@ -106,7 +106,7 @@ header h3 {
     list-style-type: none;
 }
 #sidebar ul li {
-    width: 65%;
+    width: 75%;
     margin-bottom: 5%;
     border: 3px solid;
     border-left: 2px solid;
@@ -149,7 +149,6 @@ main p {
 main img {
 	margin-bottom: 1%;
 }
-
 /* Footer */
 footer { 
     clear: both;
