@@ -1,0 +1,10 @@
+main img {
+    float: left;
+    padding: 2%;
+    width: 40%;
+    max-height: 300px;
+    padding-left: 0;
+}
+main h3 {
+    padding-bottom: 1%;
+}
