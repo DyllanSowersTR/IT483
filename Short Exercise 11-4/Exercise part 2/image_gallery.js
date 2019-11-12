@@ -10,14 +10,17 @@ $(document).ready(function() {
 
 		// set up the event handlers for each link
 		$(this).click(function(evt) {
-			$("#image").slideUp(2000);
-			
-			$("#image").attr("src", imageURL).slideDown(2000);
-    		$("#caption").text(caption);
+
+			$("#image").slideUp(2000, function() {
+				$("#image").attr("src", imageURL);
+				$("#caption").text(caption);
+				$("#image").slideDown(2000);
+			});
 
     		// cancel the default action of each link
-    		evt.preventDefault();
+			evt.preventDefault();
   		}); // end click
+
     }); // end each
     // move the focus to the first link
     $("li:first-child a").focus();
