@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22f1a49e-c1d5-4d39-9558-b45484f5c67f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IT483 Exam2/cafe.css" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/cafe.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IT483 Exam2/cafe.js" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/cafe.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IT483 Exam2/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/checkout.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IT483 Exam2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,6 +29,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore.virus.scanning.warn.message" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -40,6 +43,16 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/IT483/IT483 Exam2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -51,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573599824107</updated>
       <workItem from="1573599825960" duration="3507000" />
+      <workItem from="1573609287581" duration="11356000" />
     </task>
     <task id="LOCAL-00001" summary="Created exam 2 files">
       <created>1573599907655</created>
@@ -70,7 +84,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
