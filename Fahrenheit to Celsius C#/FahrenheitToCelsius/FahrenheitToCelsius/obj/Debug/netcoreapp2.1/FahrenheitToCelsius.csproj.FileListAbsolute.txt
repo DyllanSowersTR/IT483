@@ -1,0 +1,11 @@
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\netcoreapp2.1\FahrenheitToCelsius.deps.json
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\netcoreapp2.1\FahrenheitToCelsius.runtimeconfig.json
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\netcoreapp2.1\FahrenheitToCelsius.runtimeconfig.dev.json
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\netcoreapp2.1\FahrenheitToCelsius.dll
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\bin\Debug\netcoreapp2.1\FahrenheitToCelsius.pdb
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\netcoreapp2.1\FahrenheitToCelsius.csprojAssemblyReference.cache
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\netcoreapp2.1\FahrenheitToCelsius.csproj.CoreCompileInputs.cache
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\netcoreapp2.1\FahrenheitToCelsius.AssemblyInfoInputs.cache
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\netcoreapp2.1\FahrenheitToCelsius.AssemblyInfo.cs
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\netcoreapp2.1\FahrenheitToCelsius.dll
+C:\Users\dylla\source\repos\FahrenheitToCelsius\FahrenheitToCelsius\obj\Debug\netcoreapp2.1\FahrenheitToCelsius.pdb
