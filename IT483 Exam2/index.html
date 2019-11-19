@@ -1,3 +1,9 @@
+<!--Index.html for IT483 Fall 2019, Prof. Alkhushayni
+Midterm Exam 2
+Dyllan Sowers
+11-12-2019
+-->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,11 +14,37 @@
     <script src ="cafe.js"></script>
 </head>
 <body>
-    <img src="images/logo.png" alt="logo">
+<div id="app">
+<header>
+    <img src="images/logo.png" alt="Tuxedo Cat Logo"/>
+</header>
+<div id="menu">
     <h2>Menu</h2>
-    <p>Click an item to add it to your order</p>
-
-
+    <p>Click an item to add it to your order.</p>
+    <ul id="image_list">
+        <li><a href="#"><img id="images/espresso_info.jpg" src="images/espresso.jpg"
+                             alt="Espresso" data-price="1.95"/></a></li>
+        <li><a href="#"><img id="images/latte_info.jpg" src="images/latte.jpg"
+                             alt="Latte" data-price="2.95"/></a></li>
+        <li><a href="#"><img id="images/cappuccino_info.jpg" src="images/cappuccino.jpg"
+                             alt="Cappuccino" data-price="3.45"/></a></li>
+        <li><a href="#"><img id="images/coffee_info.jpg" src="images/coffee.jpg"
+                             alt="Coffee" data-price="1.75"/></a></li>
+        <li><a href="#"><img id="images/biscotti_info.jpg" src="images/biscotti.jpg"
+                             alt="Biscotti" data-price="1.95"/></a></li>
+        <li><a href="#"><img id="images/scone_info.jpg" src="images/scone.jpg"
+                             alt="Scone" data-price="2.95"/></a></li>
+    </ul>
+</div>
+<div>
     <h2>Your Order</h2>
+    <select id="user_order" name="user_order_form" size="8"></select>
+    <p id="total">Total: $0</p>
+</div>
+<div id="buttons">
+    <input type="button" name="place" id="place" value="Place Order">
+    <input type="button" name="clear" id="clear" value="Clear Order">
+</div>
+</div>
 </body>
 </html>
