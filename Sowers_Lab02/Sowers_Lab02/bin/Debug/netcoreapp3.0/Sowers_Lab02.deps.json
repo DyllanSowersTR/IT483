@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Sowers_Lab02/1.0.0": {
+        "runtime": {
+          "Sowers_Lab02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sowers_Lab02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

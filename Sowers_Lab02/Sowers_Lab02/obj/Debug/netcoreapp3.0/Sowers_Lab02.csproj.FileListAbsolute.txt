@@ -1,0 +1,11 @@
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\bin\Debug\netcoreapp3.0\Sowers_Lab02.exe
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\bin\Debug\netcoreapp3.0\Sowers_Lab02.deps.json
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\bin\Debug\netcoreapp3.0\Sowers_Lab02.runtimeconfig.json
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\bin\Debug\netcoreapp3.0\Sowers_Lab02.runtimeconfig.dev.json
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\bin\Debug\netcoreapp3.0\Sowers_Lab02.dll
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\bin\Debug\netcoreapp3.0\Sowers_Lab02.pdb
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\obj\Debug\netcoreapp3.0\Sowers_Lab02.csprojAssemblyReference.cache
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\obj\Debug\netcoreapp3.0\Sowers_Lab02.AssemblyInfoInputs.cache
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\obj\Debug\netcoreapp3.0\Sowers_Lab02.AssemblyInfo.cs
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\obj\Debug\netcoreapp3.0\Sowers_Lab02.dll
+C:\Users\dylla\OneDrive\Documents\GitHub\IT483\Sowers_Lab02\Sowers_Lab02\obj\Debug\netcoreapp3.0\Sowers_Lab02.pdb
