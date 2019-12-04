@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="22f1a49e-c1d5-4d39-9558-b45484f5c67f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IT483 Exam2/cafe.css" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/cafe.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IT483 Exam2/cafe.js" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/cafe.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IT483 Exam2/checkout.html" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/checkout.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IT483 Exam2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/IT483 Exam2/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1573599824107</updated>
       <workItem from="1573599825960" duration="3507000" />
-      <workItem from="1573609287581" duration="11356000" />
+      <workItem from="1573609287581" duration="11669000" />
+      <workItem from="1574733342293" duration="34000" />
     </task>
     <task id="LOCAL-00001" summary="Created exam 2 files">
       <created>1573599907655</created>
@@ -73,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573599907655</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Completed Exam 2 - restyled to dark theme">
+      <created>1573620746428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573620746429</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +98,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created exam 2 files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Created exam 2 files" />
+    <MESSAGE value="Completed Exam 2 - restyled to dark theme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Exam 2 - restyled to dark theme" />
   </component>
 </project>

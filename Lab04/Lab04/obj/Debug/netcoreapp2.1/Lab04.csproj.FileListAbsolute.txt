@@ -1,0 +1,11 @@
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\bin\Debug\netcoreapp2.1\Lab04.deps.json
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\bin\Debug\netcoreapp2.1\Lab04.runtimeconfig.json
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\bin\Debug\netcoreapp2.1\Lab04.runtimeconfig.dev.json
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\bin\Debug\netcoreapp2.1\Lab04.dll
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\bin\Debug\netcoreapp2.1\Lab04.pdb
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\obj\Debug\netcoreapp2.1\Lab04.csprojAssemblyReference.cache
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\obj\Debug\netcoreapp2.1\Lab04.csproj.CoreCompileInputs.cache
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\obj\Debug\netcoreapp2.1\Lab04.AssemblyInfoInputs.cache
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\obj\Debug\netcoreapp2.1\Lab04.AssemblyInfo.cs
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\obj\Debug\netcoreapp2.1\Lab04.dll
+C:\Users\dylla\Documents\GitHub\IT483\Lab04\Lab04\obj\Debug\netcoreapp2.1\Lab04.pdb
